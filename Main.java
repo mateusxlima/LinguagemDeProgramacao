@@ -4,11 +4,9 @@ linguagem de programação.
 
 @Autores:
 Mateus Lima
-Diego Mazega
-Nícolas Hackenhar
 */
 
-class SnowFlack {
+class Main {
 
     public static void main(String[] sf){
 
